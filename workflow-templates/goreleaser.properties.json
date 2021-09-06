@@ -1,0 +1,11 @@
+{
+    "name": "Goreleaser Workflow",
+    "description": "Runs goreleaser on pushed tags",
+    "iconName": "goreleaser",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "^\\.goreleaser\\.yml$"
+    ]
+}

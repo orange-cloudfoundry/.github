@@ -1,0 +1,11 @@
+{
+    "name": "Automatic merge of dependabot PRs Workflow",
+    "description": "Auto-accept dependabot PRs based on specific rules",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "^\\.github/auto-merge\\.yml$"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Automatic tag after dependabot merge Workflow",
+    "description": "Pushes new tag after dependabot PRs are merged",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "^\\.github/dependabot\\.yml$"
+    ]
+}

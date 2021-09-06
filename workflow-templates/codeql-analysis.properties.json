@@ -1,0 +1,8 @@
+{
+    "name": "Security analysis Workflow",
+    "description": "Orange-Cloudfoundry CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ]
+}
